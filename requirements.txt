@@ -1,0 +1,11 @@
+#some packages may be obsolete by now
+pyaudio
+pywin32 #for windows
+speechRecognition
+pyttsx3
+webbrowser
+smtplib
+speaking
+weather-api
+urllib3
+requests

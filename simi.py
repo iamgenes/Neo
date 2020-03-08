@@ -1,6 +1,5 @@
 import pyaudio
 import speech_recognition as sr
-# from pygame import mixer
 import os
 import re
 import pyttsx3

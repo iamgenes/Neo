@@ -1,10 +1,11 @@
+//To add the html file for this code soon!
+
 const icon = document.querySelector('i.fa.fa-microphone');
 let paragraph = document.createElement('p');
 let container = document.querySelector('.text-box');
 
 container.appendChild(paragraph);
 const sound =document.querySelector('.sound');
-
 window.SpeechRecognition = webkitSpeechRecognition || window.SpeechRecognition;
 const synth = window.speechSynthesis;
 recognition = new SpeechRecognition();

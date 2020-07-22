@@ -10,7 +10,7 @@ import requests
 import weather
 import glob
 from time import localtime, strftime
-import speaking
+#import speaking
 
 
 #speaking functionlity
@@ -91,11 +91,11 @@ while (i<1):
                 speak('oops!I ran out of jokes')
 
         #checking connection
-        elif ('wi-fi') in command or ('check connection') in command or ('connection') in command:  
-            REMOTE_SERVER = "www.google.com"
-            speaking.wifi()
-            rand = ['We are connected']
-            speak(rand)
+        #elif ('wi-fi') in command or ('check connection') in command or ('connection') in command:  
+         #   REMOTE_SERVER = "www.google.com"
+          #  speaking.wifi()
+           # rand = ['We are connected']
+            #speak(rand)
 
         #opening websites
         elif ('open website') in command:

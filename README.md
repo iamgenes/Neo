@@ -1,4 +1,7 @@
-# simi
+<p align="center">
+<img src="https://img.shields.io/badge/made%20in-tanzania-green?style=for-the-badge" alt="made in tanzania">
+</p>
+<h2>simi</h2>
 *Personal Assistant*
 
 `Clone` the project to your pc
